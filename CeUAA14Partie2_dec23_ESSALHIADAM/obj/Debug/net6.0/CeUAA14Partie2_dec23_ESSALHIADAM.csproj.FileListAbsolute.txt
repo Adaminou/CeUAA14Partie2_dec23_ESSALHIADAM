@@ -1,0 +1,14 @@
+C:\Users\200537\source\repos\CeUAA14Partie2_dec23_ESSALHIADAM\CeUAA14Partie2_dec23_ESSALHIADAM\bin\Debug\net6.0\CeUAA14Partie2_dec23_ESSALHIADAM.exe
+C:\Users\200537\source\repos\CeUAA14Partie2_dec23_ESSALHIADAM\CeUAA14Partie2_dec23_ESSALHIADAM\bin\Debug\net6.0\CeUAA14Partie2_dec23_ESSALHIADAM.deps.json
+C:\Users\200537\source\repos\CeUAA14Partie2_dec23_ESSALHIADAM\CeUAA14Partie2_dec23_ESSALHIADAM\bin\Debug\net6.0\CeUAA14Partie2_dec23_ESSALHIADAM.runtimeconfig.json
+C:\Users\200537\source\repos\CeUAA14Partie2_dec23_ESSALHIADAM\CeUAA14Partie2_dec23_ESSALHIADAM\bin\Debug\net6.0\CeUAA14Partie2_dec23_ESSALHIADAM.dll
+C:\Users\200537\source\repos\CeUAA14Partie2_dec23_ESSALHIADAM\CeUAA14Partie2_dec23_ESSALHIADAM\bin\Debug\net6.0\CeUAA14Partie2_dec23_ESSALHIADAM.pdb
+C:\Users\200537\source\repos\CeUAA14Partie2_dec23_ESSALHIADAM\CeUAA14Partie2_dec23_ESSALHIADAM\obj\Debug\net6.0\CeUAA14Partie2_dec23_ESSALHIADAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\200537\source\repos\CeUAA14Partie2_dec23_ESSALHIADAM\CeUAA14Partie2_dec23_ESSALHIADAM\obj\Debug\net6.0\CeUAA14Partie2_dec23_ESSALHIADAM.AssemblyInfoInputs.cache
+C:\Users\200537\source\repos\CeUAA14Partie2_dec23_ESSALHIADAM\CeUAA14Partie2_dec23_ESSALHIADAM\obj\Debug\net6.0\CeUAA14Partie2_dec23_ESSALHIADAM.AssemblyInfo.cs
+C:\Users\200537\source\repos\CeUAA14Partie2_dec23_ESSALHIADAM\CeUAA14Partie2_dec23_ESSALHIADAM\obj\Debug\net6.0\CeUAA14Partie2_dec23_ESSALHIADAM.csproj.CoreCompileInputs.cache
+C:\Users\200537\source\repos\CeUAA14Partie2_dec23_ESSALHIADAM\CeUAA14Partie2_dec23_ESSALHIADAM\obj\Debug\net6.0\CeUAA14Partie2_dec23_ESSALHIADAM.dll
+C:\Users\200537\source\repos\CeUAA14Partie2_dec23_ESSALHIADAM\CeUAA14Partie2_dec23_ESSALHIADAM\obj\Debug\net6.0\refint\CeUAA14Partie2_dec23_ESSALHIADAM.dll
+C:\Users\200537\source\repos\CeUAA14Partie2_dec23_ESSALHIADAM\CeUAA14Partie2_dec23_ESSALHIADAM\obj\Debug\net6.0\CeUAA14Partie2_dec23_ESSALHIADAM.pdb
+C:\Users\200537\source\repos\CeUAA14Partie2_dec23_ESSALHIADAM\CeUAA14Partie2_dec23_ESSALHIADAM\obj\Debug\net6.0\CeUAA14Partie2_dec23_ESSALHIADAM.genruntimeconfig.cache
+C:\Users\200537\source\repos\CeUAA14Partie2_dec23_ESSALHIADAM\CeUAA14Partie2_dec23_ESSALHIADAM\obj\Debug\net6.0\ref\CeUAA14Partie2_dec23_ESSALHIADAM.dll
